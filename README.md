@@ -1,0 +1,2 @@
+# mySmartFriend
+http://mysmartfriend.xyz/
